@@ -14,7 +14,7 @@ In order to run this project you will need to install [node.js](https://nodejs.o
 
 ###### Clone Project
 ```
-git clone 
+git clone git@github.com:EmanAwadAli/MyReadsApp.git
 ```
 ###### Install npm packages
 ```
