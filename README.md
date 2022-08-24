@@ -1,13 +1,14 @@
 # 📚 MyReads: A Book Tracking App
 ## 📌 Overview
 In this project, I create a web application that allows you to select and categorize books you have read, are currently reading, or want to read.
-## 📰 Project Main Pages :
+
+## 📰 Project Main Pages
 This projects contains only two pages :
 - **First Page** : it is the main project page which contains ```Three``` bookshelves :
   - **Currenly Reading Shelf** : contains books you are currently reading.
   - **Want To Read Shelf** : contains books you want to read.
   - **Read Shelf** : contain books you read.
- - **Second Page** : it is the project page contains a search field where you can search about any book then get the result displayed throughout this page.
+ - **Second Page** : this page contains a search field where you can search about any book then get the result displayed throughout this page.
 
 ## 📥 Installation
 In order to run this project you will need to install [node.js](https://nodejs.org/en/) globally on your device after that :
@@ -99,9 +100,9 @@ search(query, maxResults)
 ## Important
 The backend API uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in [SEARCH_TERMS.md](SEARCH_TERMS.md). That list of terms are the _only_ terms that will work with the backend, so don't be surprised if your searches for Basket Weaving or Bubble Wrap don't come back with any results.
 
-## 💡 Note :
+## 💡 Note
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## 💡 Helpful Links If You Want To Try Developing This Project From Start : 
+## 💡 Helpful Links If You Want To Try Developing This Project From Start
 - [Project Starter Code](https://github.com/udacity/reactnd-project-myreads-starter)
 - [Project Rubrics](https://review.udacity.com/#!/rubrics/918/view)
